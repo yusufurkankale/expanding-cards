@@ -34,7 +34,7 @@ Proje açıldığında görseller yatay bir şekilde listelenir. Üzerine tıkla
 Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
-git clone https://github.com/kullaniciadi/expanding-cards.git
+git clone https://github.com/yusufurkankale/expanding-cards.git
 cd expanding-cards
 aç index.html dosyasını tarayıcıda
 ```
